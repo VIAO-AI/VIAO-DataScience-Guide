@@ -59,7 +59,7 @@ This repository is your treasure map to uncover data science:
 
 **Language:** English
 
-**License:** [Choose a suitable license - MIT, Apache 2.0, etc.]
+**License:** MIT
 
 **Contributing:** Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements.
 
